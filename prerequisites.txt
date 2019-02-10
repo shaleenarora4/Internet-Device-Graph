@@ -1,5 +1,2 @@
-flask
-flask_bootstrap 
-networkx 
-matplotlib
- defaultdict
+flaskflask_bootstrap networkxmatplotlibdefaultdict
+
